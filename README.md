@@ -18,9 +18,13 @@ This dataset was collected by Professor Carlos Caldas (Cambridge Research Instit
 ## Main Questions of the Project
 
 **Question 1**: Does the age of diagnosis have an impact in the overall survival?
+
 **Question 2**: Do the levels of HER2 have an impact in the overall survival?
+
 **Question 3**: Does the progesterone status (pr_status) have an impact in the overall survival?
+
 **Question 4**: Does the size of the tumor determines treatment?
+
 **Question 5**: Are the changes in the expression of specific genes associated with increased survival?
 
 
